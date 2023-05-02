@@ -1,0 +1,28 @@
+itemNum	item
+2	a celebrity
+3	a congressman
+4	a convict
+5	a father
+6	a gang member
+7	a judge
+9	a mentor
+10	a mother
+11	a nun
+12	a pedophile
+13	a police officer
+14	a rapist
+15	a soldier
+16	a teacher
+17	a terrorist
+37	a thief
+48	an addict
+38	an adult
+39	an assassin
+40	an astronaut
+41	an elderly person
+42	an olympian
+43	your friend
+44	your grandfather
+45	your mother
+46	your cousin
+47	your sibling
